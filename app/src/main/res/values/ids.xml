@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="password" type="id" />
+    <item name="repassword" type="id" />
+    <item name="username" type="id" />
+    <item name="username1" type="id" />
+    <item name="btnsignin1" type="id" />
+    <item name="password1" type="id" />
+</resources>
